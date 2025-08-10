@@ -5,7 +5,7 @@ api-version: '1.20'
 authors: [lxt3z]
 commands:
   cmdx:
-    permission: bixcooldown.admin
+    permission: cmdx.admin
     usage: /cmdx reload
 
 permissions:
