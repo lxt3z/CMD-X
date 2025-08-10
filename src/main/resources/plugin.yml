@@ -1,0 +1,15 @@
+name: CMD-x
+version: '${project.version}'
+main: su.lxt3z.cmdx.Main
+api-version: '1.20'
+authors: [lxt3z]
+commands:
+  cmdx:
+    permission: bixcooldown.admin
+    usage: /cmdx reload
+
+permissions:
+  cmdx.admin:
+    default: op
+  cmdx.cooldown.bypass:
+    default: false

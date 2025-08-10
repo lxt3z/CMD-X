@@ -1,0 +1,4 @@
+# Список заблокированных команд
+blocked_commands:
+  - plugins
+  - pl
